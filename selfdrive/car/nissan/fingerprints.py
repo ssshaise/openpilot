@@ -40,6 +40,7 @@ FW_VERSIONS = {
       b'237109HE2B',
     ],
     (Ecu.gateway, 0x18dad0f1, None): [
+      b'284U26CA0B',
       b'284U29HE0A',
     ],
   },
